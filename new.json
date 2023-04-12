@@ -1,0 +1,17 @@
+{
+    "user": {
+	    
+           "name"      : "Sasha" ,   
+           "surname"   : "Parxomenko" ,
+	   "surname_2" : "Sergeevich" ,
+	   "age"       : 16 ,
+	   "animal"    : 1  ,
+	   "salary"    : 70000 
+
+           }
+
+
+
+
+
+}
